@@ -33,7 +33,7 @@ html {
 .hero {
   background-image: url(./Assets/img/suzume.jpg);
   background-size: cover;
-  height: 44vh;
+  height: 50vh;
   opacity: 90%;
   background-repeat: no-repeat;
 }
