@@ -33,7 +33,7 @@ html {
 .hero {
   background-image: url(./Assets/img/suzume.jpg);
   background-size: cover;
-  height: 50vh;
+  height: 44vh;
   opacity: 90%;
   background-repeat: no-repeat;
 }
@@ -41,7 +41,7 @@ html {
   padding: 8em 0 0 4em;
 }
 .hero .heading img {
-  height: 4em;
+  height: 3em;
 }
 .hero .heading h1 {
   font-size: 6em;
